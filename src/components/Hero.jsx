@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants";
-import photoProfile from "../assets/ahmed-profile-photo.jpg";
+import photoProfile from "../assets/photo-output.jpeg";
 
 import { motion } from "framer-motion";
 
